@@ -55,4 +55,3 @@ pip install -r requirements.txt
 # Environment variables
 OPENAI_API_KEY = 'YOUR API KEY'
 ```
-It is deeply recommended to use GPU to execute the code.
